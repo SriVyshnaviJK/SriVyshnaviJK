@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SriVyshnaviJK
-- 👀 I’m interested in learning new tech stuff🤓
-- 🌱 I’m currently learning Python #100DaysofCode😄
+- 👀 I’m enthusiastic about mastering new technological skills🤓
+- 🌱 I’m currently working on developing my Python Skills #100DaysOfCode😉
 - 😄 Pronouns: She/Her
 
 
